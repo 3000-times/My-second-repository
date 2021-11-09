@@ -1,0 +1,1 @@
+print('my name is test22 '+__name__)

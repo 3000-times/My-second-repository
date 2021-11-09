@@ -1,0 +1,1 @@
+print('my name is test32 '+__name__)
